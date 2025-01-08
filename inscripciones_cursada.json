@@ -1,0 +1,83 @@
+[
+    {
+        "id_cursada": 1,
+        "id_materia": 7,
+        "id_alumne": 1,
+        "id_comision": 1,
+        "f_inscripcion": "2024-03-02", 
+        "nota": null,
+        "estado": "ingresade"
+    },
+    {   
+        "id_cursada": 2,
+        "id_materia": 7,
+        "id_alumne": 2,
+        "id_comision": 1,
+        "f_inscripcion": "2024-03-08",
+        "nota": null,
+        "estado": "ingresade"
+    },
+    {
+        "id_cursada": 3,
+        "id_materia": 7,
+        "id_alumne": 3,
+        "id_comision": 1, 
+        "f_inscripcion": "2024-03-05",
+        "nota": null,
+        "estado": "ingresade"
+    },
+    {
+        "id_cursada": 4,
+        "id_materia": 7,
+        "id_alumne": 4,
+        "id_comision": 2,
+        "f_inscripcion": "2024-03-10",
+        "nota": null,
+        "estado": "ingresade"
+    },
+    {
+        "id_cursada": 5,
+        "id_materia": 7,
+        "id_alumne": 5,
+        "id_comision": 2,
+        "f_inscripcion": "2024-03-01",
+        "nota": null,
+        "estado": "ingresade"
+    },
+    {
+        "id_cursada": 6,
+        "id_materia": 7,
+        "id_alumne": 6,
+        "id_comision": 2,
+        "f_inscripcion": "2024-03-11",
+        "nota": null,
+        "estado": "ingresade"
+    },
+    {
+        "id_cursada": 7,
+        "id_materia": 1,
+        "id_alumne": 7,
+        "id_comision": 1,
+        "f_inscripcion": "2024-03-08",
+        "nota": null,
+        "estado": "ingresade"
+    },
+    {
+        "id_cursada": 8,
+        "id_materia": 1,
+        "id_alumne": 8,
+        "id_comision": 1,
+        "f_inscripcion": "2024-03-04",
+        "nota": null,
+        "estado": "ingresade"
+    },
+    {
+        "id_cursada": 9,
+        "id_materia": 1,
+        "id_alumne": 9,
+        "id_comision": 1,
+        "f_inscripcion": "2024-03-12",
+        "nota": null,
+        "estado": "ingresade"
+    }
+]
